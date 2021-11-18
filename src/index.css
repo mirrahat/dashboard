@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    .h-200 {
+      height: 200px;
+    }
+    .h-250 {
+        height: 250px;
+      }
+      .h-450 {
+        height: 450px;
+      }
+  }
